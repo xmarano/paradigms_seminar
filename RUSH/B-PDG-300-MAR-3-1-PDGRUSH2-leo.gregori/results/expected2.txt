@@ -1,0 +1,6 @@
+point = <Point (42, -42)>
+point2 = <Point (16, 7)>
+point3 = <Point (20, 40)>
+vertex = <Vertex (0, 1, 2)>
+vertex2 = <Vertex (0, 15, 30)>
+vertex3 = <Vertex (13, -13, 1)>

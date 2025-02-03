@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+a.out
+main.cpp
+results/
+file.py
+alien.txt
+buzz.txt
+woody.txt

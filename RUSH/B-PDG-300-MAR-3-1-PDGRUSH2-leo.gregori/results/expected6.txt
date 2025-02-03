@@ -1,0 +1,5 @@
+Adding elements to the list:
+List length: 4
+Deleting elements from the list:
+List length after del_front: 3
+List length after del_back: 2

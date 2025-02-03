@@ -1,0 +1,8 @@
+<Point (12, 13)> + <Point (2, 2)> = <Point (14, 15)>
+<Point (12, 13)> - <Point (2, 2)> = <Point (10, 11)>
+<Point (0, 0)> + <Point (38, -42)> = <Point (38, -42)>
+<Point (0, 0)> - <Point (38, -42)> = <Point (-38, 42)>
+<Vertex (1, 2, 3)> + <Vertex (4, 5, 6)> = <Vertex (5, 7, 9)>
+<Vertex (1, 2, 3)> - <Vertex (4, 5, 6)> = <Vertex (-3, -3, -3)>
+<Vertex (7, 8, 9)> + <Vertex (10, 11, 12)> = <Vertex (17, 19, 21)>
+<Vertex (7, 8, 9)> - <Vertex (10, 11, 12)> = <Vertex (-3, -3, -3)>

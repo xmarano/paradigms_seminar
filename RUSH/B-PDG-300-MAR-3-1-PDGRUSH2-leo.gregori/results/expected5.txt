@@ -1,0 +1,11 @@
+array size: 10
+<Int (0)>
+<Int (0)>
+<Int (0)>
+<Int (0)>
+<Int (0)>
+<Int (12)>
+<Int (13)>
+<Int (0)>
+<Int (0)>
+<Int (0)>

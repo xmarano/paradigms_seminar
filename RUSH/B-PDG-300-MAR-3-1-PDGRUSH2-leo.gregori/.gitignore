@@ -1,0 +1,6 @@
+.vscode
+**/coding-style*
+.DS_Store
+main.c
+a.out
+test_int.dSYM

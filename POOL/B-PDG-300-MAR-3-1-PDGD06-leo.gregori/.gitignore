@@ -1,0 +1,8 @@
+.vscode
+**/coding-style*
+.DS_Store
+**/a.out*
+**/main.cpp*
+**/MyCat*
+**/test.txt*
+**/John.drink*

@@ -1,0 +1,20 @@
+<Int (10)> == <Int (10)> = true
+<Int (10)> > <Int (5)> = true
+<Int (10)> < <Int (5)> = false
+<Int (10)> + <Int (5)> = <Int (15)>
+<Int (10)> - <Int (5)> = <Int (5)>
+<Int (10)> * <Int (5)> = <Int (50)>
+<Int (10)> / <Int (5)> = <Int (2)>
+<Float (3.140000)> == <Float (3.140000)> = true
+<Float (3.140000)> > <Float (1.140000)> = true
+<Float (3.140000)> < <Float (1.140000)> = false
+<Float (3.140000)> + <Float (1.140000)> = <Float (4.280000)>
+<Float (3.140000)> - <Float (1.140000)> = <Float (2.000000)>
+<Float (3.140000)> * <Float (1.140000)> = <Float (3.579600)>
+<Float (3.140000)> / <Float (1.140000)> = <Float (2.754386)>
+<Char (&)> == <Char (&)> = true
+<Char (&)> > <Char (7)> = false
+<Char (&)> < <Char (7)> = true
+<Char (&)> + <Char (7)> = <Char (])>
+<Char (&)> * <Char (7)> = <Char (*)>
+<Char (&)> / <Char (7)> = <Char (
